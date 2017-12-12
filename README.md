@@ -1,3 +1,3 @@
 # Enhanced-CORDIC
 
-Implementation of "Enhanced Scaling Free CORDIC" by Jamie et.al
+Simulation of Paper on "Enhanced Scaling Free CORDIC" by Jamie et.al
